@@ -5,3 +5,7 @@ de la Universidad de Sonora. El dashboard se realizó en el lenguaje Python util
 #### Datos
 Los datos de Phishing del 2020 se obtuvieron de la página [PhishStats](https://phishstats.info/), para mas información acerca de la
 de la obtención de datos visitar el siguiente post de Medium: [Obteniendo datos mundiales de Phishing con la API de PhishStats](https://medium.com/mcd-unison/obteniendo-datos-mundiales-de-phishing-con-la-api-de-phishstats-76ab9136103d)
+
+#### URL dashboard
+El dashboard se encuentra disponible: 
+https://dashboardphishing.herokuapp.com/
